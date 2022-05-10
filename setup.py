@@ -21,7 +21,7 @@ def get_long_description():
 
 setup(
     name='scrapy-rotating-proxies',
-    version='0.6.3',
+    version='0.6.4',
     author='Mikhail Korobov',
     author_email='kmike84@gmail.com',
     license='MIT license',
